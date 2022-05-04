@@ -1,0 +1,5 @@
+https://www.r-project.org/  #安装R
+https://www.rstudio.com/products/rstudio/download/ #安装Rstudio
+https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?cmd=show&f=software&m=software&s=software #安装sratoolkit
+https://git-scm.com/download/win #安装git
+此电脑--》属性--》左上侧的高级系统设置--》高级---》环境变量，将vsearch.exe,usearch.exe和其他会使用到的工具配置到环境中
